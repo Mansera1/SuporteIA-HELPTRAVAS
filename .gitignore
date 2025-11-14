@@ -1,18 +1,14 @@
-# Build
+# Build and VS files
 bin/
 obj/
 publish/
 *.exe
 *.dll
-*.pdb
-*.cache
-*.log
 
-# VS
+# VS files
 .vs/
 *.user
 *.suo
 
-# Sistema
-Thumbs.db
-*.tmp
+# Others
+openrouter_log.txt

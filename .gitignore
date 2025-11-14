@@ -1,0 +1,14 @@
+# Pastas do Visual Studio
+.vs/
+bin/
+obj/
+
+# Logs
+*.log
+openrouter_log.txt
+
+# Publicações
+wwwroot/lib/
+
+# Configurações locais
+appsettings.Development.json

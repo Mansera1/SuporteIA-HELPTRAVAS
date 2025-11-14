@@ -1,6 +1,0 @@
-D:\PROJETOS\Senai\Programa-o-C-\SuporteIA\bin\Release\net8.0\win-x64\publish\appsettings.Development.json
-D:\PROJETOS\Senai\Programa-o-C-\SuporteIA\bin\Release\net8.0\win-x64\publish\appsettings.json
-D:\PROJETOS\Senai\Programa-o-C-\SuporteIA\bin\Release\net8.0\win-x64\publish\SuporteIA.pdb
-D:\PROJETOS\Senai\Programa-o-C-\SuporteIA\bin\Release\net8.0\win-x64\publish\aspnetcorev2_inprocess.dll
-D:\PROJETOS\Senai\Programa-o-C-\SuporteIA\bin\Release\net8.0\win-x64\publish\Microsoft.Data.SqlClient.SNI.dll
-D:\PROJETOS\Senai\Programa-o-C-\SuporteIA\bin\Release\net8.0\win-x64\publish\SuporteIA.exe

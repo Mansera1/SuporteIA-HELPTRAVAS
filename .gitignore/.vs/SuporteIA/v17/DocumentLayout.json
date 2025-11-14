@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\chamado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\chamado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\chamado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\chamado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\chamado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\chamado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\controllers\\chamadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:controllers\\chamadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\services\\openrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:services\\openrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\services\\iiasuporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:services\\iiasuporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\openrouter_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:openrouter_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\controllers\\historicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:controllers\\historicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\historico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\historico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\historico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\historico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\faq\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\faq\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\faq\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\faq\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\conta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\conta\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\chamado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\chamado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\solucaoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\solucaoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\solicitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\solicitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\iaauditlogcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\iaauditlogcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\authviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\authviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\chamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\chamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\privacidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\privacidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|d:\\projetos\\senai\\programa-o-c-\\suporteia\\suporteia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EED72A4-DD76-4468-A62A-ED2EF70A205E}|SuporteIA.csproj|solutionrelative:suporteia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:03:12.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Chamado\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chamado\\Edit.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Chamado\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Chamado\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T02:14:20.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChamadoController.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\ChamadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChamadoController.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\ChamadoController.cs",
+              "RelativeToolTip": "Controllers\\ChamadoController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:09:58.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:06:41.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T01:02:04.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaController.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\ContaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContaController.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\ContaController.cs",
+              "RelativeToolTip": "Controllers\\ContaController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:55:58.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T02:04:23.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T01:41:40.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Chamado\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chamado\\Index.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Chamado\\Index.cshtml",
+              "RelativeToolTip": "Views\\Chamado\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T23:13:45.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Chamado\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chamado\\Create.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Chamado\\Create.cshtml",
+              "RelativeToolTip": "Views\\Chamado\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T23:14:27.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OpenRouterService.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Services\\OpenRouterService.cs",
+              "RelativeDocumentMoniker": "Services\\OpenRouterService.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Services\\OpenRouterService.cs",
+              "RelativeToolTip": "Services\\OpenRouterService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:35:05.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T01:43:41.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T23:06:23.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IIASuporteService.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Services\\IIASuporteService.cs",
+              "RelativeDocumentMoniker": "Services\\IIASuporteService.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Services\\IIASuporteService.cs",
+              "RelativeToolTip": "Services\\IIASuporteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:56:17.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FaqController.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\FaqController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FaqController.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\FaqController.cs",
+              "RelativeToolTip": "Controllers\\FaqController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv4MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:53:45.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HistoricoController.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\HistoricoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HistoricoController.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\HistoricoController.cs",
+              "RelativeToolTip": "Controllers\\HistoricoController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T01:24:50.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T01:15:18.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-11T01:15:22.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "openrouter_log.txt",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\openrouter_log.txt",
+              "RelativeDocumentMoniker": "openrouter_log.txt",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\openrouter_log.txt",
+              "RelativeToolTip": "openrouter_log.txt",
+              "ViewState": "AgIAACQBAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-11T00:16:26.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "Data\\IdentitySeed.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "Data\\IdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:48:29.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContextFactory.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:28:40.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:01:17.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:52:23.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:50:16.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T01:44:47.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T00:56:59.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Historico\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Historico\\Create.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Historico\\Create.cshtml",
+              "RelativeToolTip": "Views\\Historico\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T01:32:38.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Faq\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Faq\\Index.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Faq\\Index.cshtml",
+              "RelativeToolTip": "Views\\Faq\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T00:54:28.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Faq\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Faq\\Create.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Faq\\Create.cshtml",
+              "RelativeToolTip": "Views\\Faq\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T00:55:21.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T00:53:10.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Conta\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Conta\\Perfil.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Conta\\Perfil.cshtml",
+              "RelativeToolTip": "Views\\Conta\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T00:51:05.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Historico\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Historico\\Index.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Historico\\Index.cshtml",
+              "RelativeToolTip": "Views\\Historico\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T01:31:38.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Chamado\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chamado\\Details.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Chamado\\Details.cshtml",
+              "RelativeToolTip": "Views\\Chamado\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T02:10:49.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T00:51:42.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T00:51:14.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:04:37.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SolucaoIA.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\SolucaoIA.cs",
+              "RelativeDocumentMoniker": "Models\\SolucaoIA.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\SolucaoIA.cs",
+              "RelativeToolTip": "Models\\SolucaoIA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:05:50.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Solicitante.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Solicitante.cs",
+              "RelativeDocumentMoniker": "Models\\Solicitante.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Solicitante.cs",
+              "RelativeToolTip": "Models\\Solicitante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:03:04.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IaAuditLogcs.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\IaAuditLogcs.cs",
+              "RelativeDocumentMoniker": "Models\\IaAuditLogcs.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\IaAuditLogcs.cs",
+              "RelativeToolTip": "Models\\IaAuditLogcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:46:52.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Historico.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Historico.cs",
+              "RelativeDocumentMoniker": "Models\\Historico.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Historico.cs",
+              "RelativeToolTip": "Models\\Historico.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:05:16.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Faq.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Faq.cs",
+              "RelativeDocumentMoniker": "Models\\Faq.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Faq.cs",
+              "RelativeToolTip": "Models\\Faq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:46:16.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:19:45.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Equipe.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Equipe.cs",
+              "RelativeDocumentMoniker": "Models\\Equipe.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Equipe.cs",
+              "RelativeToolTip": "Models\\Equipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:04:02.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "Models\\Departamento.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Departamento.cs",
+              "RelativeToolTip": "Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:03:31.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthViewModels.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\AuthViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\AuthViewModels.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\AuthViewModels.cs",
+              "RelativeToolTip": "Models\\AuthViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:58:30.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Chamado.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Chamado.cs",
+              "RelativeDocumentMoniker": "Models\\Chamado.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\Chamado.cs",
+              "RelativeToolTip": "Models\\Chamado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:02:08.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:45:24.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Privacidade.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Privacidade.cshtml",
+              "RelativeDocumentMoniker": "Views\\Privacidade.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Privacidade.cshtml",
+              "RelativeToolTip": "Views\\Privacidade.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T00:56:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-26T01:02:09.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T00:59:57.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T23:17:03.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SuporteIA.csproj",
+              "DocumentMoniker": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\SuporteIA.csproj",
+              "RelativeDocumentMoniker": "SuporteIA.csproj",
+              "ToolTip": "D:\\PROJETOS\\Senai\\Programa-o-C-\\SuporteIA\\SuporteIA.csproj",
+              "RelativeToolTip": "SuporteIA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T23:06:56.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

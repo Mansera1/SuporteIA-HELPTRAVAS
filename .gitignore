@@ -1,14 +1,18 @@
-# Pastas do Visual Studio
-.vs/
+# Build
 bin/
 obj/
-
-# Logs
+publish/
+*.exe
+*.dll
+*.pdb
+*.cache
 *.log
-openrouter_log.txt
 
-# Publicações
-wwwroot/lib/
+# VS
+.vs/
+*.user
+*.suo
 
-# Configurações locais
-appsettings.Development.json
+# Sistema
+Thumbs.db
+*.tmp
